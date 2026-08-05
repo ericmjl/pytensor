@@ -1,0 +1,29 @@
+doc/troubleshooting.rst
+  s_1f416d9c750d09::t_1ac2e3525c87d0 199
+pytensor/link/c/cmodule.py
+  s_1f416d9c750d09::t_1ac2e3525c87d0 2941
+.pre-commit-config.yaml
+  s_1f416d9c750d09::t_1ac2e3525c87d0 28
+doc/dev_start_guide.rst
+  s_1f416d9c750d09::t_1ac2e3525c87d0 225-272
+pyproject.toml
+  s_1f416d9c750d09::t_1ac2e3525c87d0 88
+.github/workflows/pypi.yml
+  s_1f416d9c750d09::t_1ac2e3525c87d0 132-133,152-153,155-167,174,178-179,215-234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0fc4f6b91ec86107b6baceb106953d8e6f291293",
+  "prompts": {},
+  "sessions": {
+    "s_1f416d9c750d09": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_02c06afa3ffenCwSkmPeUPOl7w",
+        "model": "glm-5.2"
+      },
+      "human_author": "Eric Ma <ericmajinglong@gmail.com>"
+    }
+  }
+}
